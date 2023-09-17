@@ -6,7 +6,7 @@
 python3 TicTacToe.py
 ```
 
-### Before running this TicTacToe.py  file, install modules in requirements.txt by.
+### Before running this TicTacToe.py  file, install modules in requirements.txt.
 ```
 pip install -r requrements.txt
 ```
