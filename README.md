@@ -1,6 +1,6 @@
 # TicTacToe
 
-> TicTacToe is really popular game. Especially, who want to build project on Python. 
+> TicTacToe is really popular game. Especially, who want to build project first time on Python. 
 ```
 python3 TicTacToe.py
 ```
